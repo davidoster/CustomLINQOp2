@@ -1,0 +1,15 @@
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/bin/Debug/net7.0/CustomLINQOperator
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/bin/Debug/net7.0/CustomLINQOperator.deps.json
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/bin/Debug/net7.0/CustomLINQOperator.runtimeconfig.json
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/bin/Debug/net7.0/CustomLINQOperator.dll
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/bin/Debug/net7.0/CustomLINQOperator.pdb
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/obj/Debug/net7.0/CustomLINQOperator.csproj.AssemblyReference.cache
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/obj/Debug/net7.0/CustomLINQOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/obj/Debug/net7.0/CustomLINQOperator.AssemblyInfoInputs.cache
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/obj/Debug/net7.0/CustomLINQOperator.AssemblyInfo.cs
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/obj/Debug/net7.0/CustomLINQOperator.csproj.CoreCompileInputs.cache
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/obj/Debug/net7.0/CustomLINQOperator.dll
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/obj/Debug/net7.0/refint/CustomLINQOperator.dll
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/obj/Debug/net7.0/CustomLINQOperator.pdb
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/obj/Debug/net7.0/CustomLINQOperator.genruntimeconfig.cache
+/Users/davidoster/source/repos/CustomLINQOp/CustomLINQOperator/obj/Debug/net7.0/ref/CustomLINQOperator.dll
